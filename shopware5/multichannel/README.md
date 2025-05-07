@@ -2,10 +2,12 @@
 
 --- 
 :warning: Wichtiger Hinweis::warning:
+
 Das Shopware 5 Plugin wird nicht mehr aktiv weiterentwickelt, es werden höchstens noch kritische Bugfixes ausgerollt.
 
 ---
 :warning: Important Notice::warning:
+
 The Shopware 5 plugin will no longer be actively developed, at most critical bug fixes will be rolled out.
 
 ---- 
