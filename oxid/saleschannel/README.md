@@ -35,6 +35,9 @@ Wir empfehlen dringend das Module zunächst auf einem Testsystem zu prüfen.
 Our module has already been released as a beta for OXID 7 and can now be tested for corresponding migrations from OXID 6 to OXID 7.
 We strongly recommend testing the module on a test system first.
 
+### Installation
+Das Modul enthält eine README.md mit konkreten Hinweisen zu Installation bitte beachten Sie diese.
+
 ### Download (BETA)
 
 [BrickfoxSaleschannel_7.0.0.zip](beta/BrickfoxSaleschannel_7.0.0.zip)
