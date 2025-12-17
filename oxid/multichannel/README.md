@@ -22,7 +22,7 @@ The current version of the OXID multichannel module can be downloaded from here.
 
 ## Download
 
-[BrickfoxMultichannel_2.2.1.zip](BrickfoxMultichannel_2.2.1.zip)
+[BrickfoxMultichannel_2.2.2.zip](BrickfoxMultichannel_2.2.2.zip)
 
 ## OXID 7 Modul
 
