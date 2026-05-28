@@ -39,6 +39,6 @@ Das Modul enthält eine README.md mit konkreten Hinweisen zu Installation bitte 
 
 ### Download (BETA)
 
-[BrickfoxMultichannel_7.1.0.zip](beta/BrickfoxMultichannel_7.1.0.zip)
+[BrickfoxMultichannel_7.2.0.zip](beta/BrickfoxMultichannel_7.2.0.zip)
 
 [CHANGELOG.md](beta/CHANGELOG.md)
